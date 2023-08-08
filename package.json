@@ -1,0 +1,14 @@
+{
+  "name": "github-personal-access-tokens",
+  "version": "1.0.0",
+  "description": "github personal access tokens",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "author": "zhixiangyao",
+  "devDependencies": {
+    "@octokit/core": "^5.0.0"
+  }
+}
